@@ -1,5 +1,7 @@
 # The Double Spend Game
 
+![The Double Spend Game Slides](https://github.com/thedoublespendgame/.github/raw/main/profile/slides.jpg)
+
 ## Background
 A card game and teaching resources to educate students on the concepts of blockchains to increase financial and technical literacy
 
